@@ -1,0 +1,8 @@
+Anydesk Password :
+it@sysadmin#
+
+Login server:
+Administrator
+
+password :
+it@sysadmin0
